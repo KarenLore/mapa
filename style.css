@@ -1,0 +1,23 @@
+body{
+    background: linear-gradient(180deg, #FFFFFF 0%, #f1b7b7 20%, #d81c1c6e 100%);
+    margin: 6px;
+    border: 5px solid black;   
+}
+.header-colombia {
+    font-size: 20px;
+    text-align: center;
+    color: brown;
+}
+.mapa{
+    margin-left: 720PX;
+    margin-right: 720PX;
+    border: 5px solid black;
+    display: flex;
+    justify-content: center;
+}
+.cuadro{
+    font-size: 25px;
+    text-align: center;
+    margin: 8px;
+    border: 5px solid black;
+}
