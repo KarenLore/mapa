@@ -1,4 +1,4 @@
-# Mapa de Colombia
+# 🗺️Mapa de Colombia
 Este proyecto presenta un mapa interactivo de Colombia que permite a los usuarios explorar diferentes regiones del país. Utiliza HTML y CSS para la estructura y diseño visual, y un mapa de imagen para la interactividad.
 
 ## Tabla de contenidos
@@ -69,3 +69,8 @@ Este texto será una cita.
 
 > [!CAUTION]
 > No sobrecargues la página con demasiadas áreas interactivas, ya que esto podría confundir al usuario.
+
+### 📞Contacto
+  Para preguntas, sugerencias o más información sobre el proyecto, no dudes en ponerte en contacto conmigo:
+   - Nombre: Karen Lorena Cristancho
+   - Email: karenlorenacriscaceres@gmail.com
