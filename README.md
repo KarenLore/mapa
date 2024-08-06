@@ -18,7 +18,8 @@ Deberas ejecutar el comando git clone para copiar el repositorio
 sudo apt install app
 ```
 
-``` Código realizado en:
+```
+Código realizado en:
 - html
 - css
 ```
